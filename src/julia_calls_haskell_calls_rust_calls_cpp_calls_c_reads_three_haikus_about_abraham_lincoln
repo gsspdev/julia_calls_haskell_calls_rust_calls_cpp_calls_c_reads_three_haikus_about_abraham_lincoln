@@ -1,0 +1,5 @@
+module julia_calls_haskell_calls_rust_calls_cpp_calls_c_reads_three_haikus_about_abraham_lincoln
+
+greet() = print("Hello World!")
+
+end # module julia_calls_haskell_calls_rust_calls_cpp_calls_c_reads_three_haikus_about_abraham_lincoln
